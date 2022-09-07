@@ -1,0 +1,13 @@
+# > Dlsite
+host-suffix, dlsite.jp, Dlsite
+host-suffix, chobit.cc, Dlsite
+host-suffix, dlsite.com, Dlsite
+
+host-suffix, ci-en.jp, Dlsite
+host-suffix, eisys.co.jp, Dlsite
+host, eisys.zendesk.com, Dlsite
+host-suffix, zowa.app, Dlsite
+host-suffix, triokini.com, Dlsite
+host-suffix, nijiyome.jp, Dlsite
+
+host-suffix, eisys-bcs.jp, Dlsite

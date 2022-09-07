@@ -21,8 +21,3 @@ host-suffix, b-ch.com, Blinkload JP
 
 # Twitter Image
 host, pbs.twimg.com, proxy
-
-# Dlsite
-host-suffix, dlsite.jp, Blinkload JP
-host-suffix, chobit.cc, Blinkload JP
-host-suffix, dlsite.com, Blinkload JP
