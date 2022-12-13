@@ -1,2 +1,2 @@
-# Quantumult_rule_list
-A set of rules on Quantumult X.
+# Rule list
+A set of rules on Quantumult X and Clash.
