@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,dlsite.jp
+  - DOMAIN-SUFFIX,chobit.cc
+  - DOMAIN-SUFFIX,dlsite.com
+
+  - DOMAIN-SUFFIX,ci-en.jp
+  - DOMAIN-SUFFIX,eisys.co.jp
+  - DOMAIN,eisys.zendesk.com
+  - DOMAIN-SUFFIX,zowa.app
+  - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,nijiyome.jp
+
+  - DOMAIN-SUFFIX,eisys-bcs.jp
