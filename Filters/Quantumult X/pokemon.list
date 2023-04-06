@@ -1,3 +1,16 @@
 # > Pokemon
 host-suffix, pokemon-home.com, Pokemon
 host-suffix, pokemon-unitepgame.com, Pokemon
+
+# Unconfirmed
+
+host-suffix, readdle.com, Pokemon
+
+host-suffix, listdl.com, Pokemon
+host-suffix, gcdcrs.com, Pokemon
+host-suffix, iegcom.com, Pokemon
+
+host-suffix, singaporepaya.com, Pokemon
+
+ip-cidr, 101.32.104.187/32, Pokemon
+ip-cidr, 124.156.236.26/32, Pokemon
